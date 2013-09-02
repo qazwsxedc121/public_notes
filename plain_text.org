@@ -1,0 +1,18 @@
+* 为什么使用纯文本
+** 纯文本可编辑性强
+纯文本都可以用文本编辑器编辑
+** 纯文本可以使用版本控制系统追踪
+** 纯文本占用的空间小
+** 易于转换
+** 易于发布
+* 轻量标记语言
+** markdown
+*** gfm
+** org-mode
+** restructured text
+** text-tile
+** wikipedia
+** text2tag
+** BBCode
+** AsciiDoc
+* 纯文本的缺陷
