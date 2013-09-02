@@ -4,6 +4,10 @@
 ** 纯文本可以使用版本控制系统追踪
 ** 纯文本占用的空间小
 ** 易于转换
+*** Docbook,Pdf,Latex,Office Docx
+*** mindmap,graghviz
+*** PPT,revealjs
+*** Blog,Wiki
 ** 易于发布
 * 轻量标记语言
 ** markdown
@@ -16,3 +20,18 @@
 ** BBCode
 ** AsciiDoc
 * 纯文本的缺陷
+** 缺乏多媒体支持,不直观
+** 要么复杂度高,要么功能不全
+** 没有统一标准,都不够普及
+*** 一家一个标准
+*** 连markdown的普及度也不够高
+** 受传统人员排斥
+** 缺乏给SB用的编辑器
+*** Mou,MarkdownPad
+已经算做的最好的了,但是受众还是略小
+*** Emacs,Vim
+虽然编辑无敌,但是学习成本确实高
+org-mode对Emacs过于依赖,在别的编辑器上可用性低
+** 编码!!!
+*** 某些语言对于UTF支持有问题
+*** Windows对于UTF支持有问题
